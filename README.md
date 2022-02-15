@@ -13,6 +13,7 @@
 - Learn how develop an advanced GRID SYSTEM: 1 List + 3 Grids
 - Learn how to optimize the app’s layout for iPad screens 
 - How to transfer an iPad app to a desktop app with MAC CATALYST 
+
 - Learn how to create a motion animation programmatically
 
 #### TOPICS WILL BE COVERED:
@@ -38,6 +39,8 @@
 - **iMessage Sticker Pack**,
 
 - Bring the full iPadOS app to **macOS **, etc.
+
+![Simulator Screen Recording - iPhone 11 - 2022-02-15 at 22 03 09](https://user-images.githubusercontent.com/62378554/154140224-5a8966bb-69cd-484c-b481-76f1164f84fb.gif)
 
 <img src="https://github.com/obadasemary/Africa/blob/main/Screenshots/Africa_0.jpg" alt="HTML5 Icon">
 <img src="https://github.com/obadasemary/Africa/blob/main/Screenshots/Africa_1.jpg" alt="HTML5 Icon">
