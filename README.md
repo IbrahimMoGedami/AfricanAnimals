@@ -1,4 +1,4 @@
-# Africa
+# African Animals
 
 ## WHAT WILL YOU LEARN?
 
@@ -23,7 +23,7 @@
 
 - **MapKit Integration** (basic and advanced approach with another cool feature),
 
-- **Video Player** (new SwiftUI 2 feature),
+- **Video Player** ,
 
 - **Launch Screen** (new way),
 
